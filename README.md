@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0182-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
