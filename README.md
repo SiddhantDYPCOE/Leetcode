@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0200-number-of-islands) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
