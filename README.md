@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0542-01-matrix) |
 ## Math
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
+| [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0200-number-of-islands) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
