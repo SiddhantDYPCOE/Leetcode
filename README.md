@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0127-word-ladder) |
+| [0904-fruit-into-baskets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0542-01-matrix) |
 | [0860-lemonade-change](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
