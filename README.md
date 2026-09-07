@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
