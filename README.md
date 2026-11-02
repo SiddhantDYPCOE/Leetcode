@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0200-number-of-islands) |
