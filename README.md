@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Database
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0542-01-matrix) |
@@ -271,5 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
