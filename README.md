@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0542-01-matrix) |
 ## Math
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0200-number-of-islands) |
