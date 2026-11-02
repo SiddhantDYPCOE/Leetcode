@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0130-surrounded-regions) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SiddhantDYPCOE/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
